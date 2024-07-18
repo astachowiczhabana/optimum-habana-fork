@@ -250,6 +250,6 @@ After training your model, feel free to submit it to the Intel [leaderboard](htt
 ## Development
 
 Check the [contributor guide](https://github.com/huggingface/optimum/blob/main/CONTRIBUTING.md) for instructions.
-C
-C
-C
+B
+B
+B
